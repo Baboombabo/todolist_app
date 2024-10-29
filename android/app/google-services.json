@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568718028839",
+    "project_id": "todolistapp-f0ab2",
+    "storage_bucket": "todolistapp-f0ab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568718028839:android:c258d53b4d61e2a6309e02",
+        "android_client_info": {
+          "package_name": "todolist.app.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXkXiIhV-1gIBENExATjuv7Zf6yvQc_iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
